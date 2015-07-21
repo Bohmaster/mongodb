@@ -1,0 +1,9 @@
+{
+  "mydb": {
+    "host": "http://138.36.239.196",
+    "port": 27017,
+    "database": "mydb",
+    "name": "mydb",
+    "connector": "mongodb"
+  }
+}
